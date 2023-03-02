@@ -1,0 +1,38 @@
+.body {
+    background-color: rgb(255, 255, 255);
+}
+header {
+    margin: 0 auto;
+    text-align: center;
+}
+.navGris {
+    background-color: rgb(213, 164, 3);
+    color: rgb(0, 0, 0);
+    letter-spacing: 3px;
+}
+
+.fechasDiv {
+    display: inline; 
+}
+
+.infoDiv {
+    display: inline;
+}
+.footer2 {
+    background-color: #a55c12;
+    color: aliceblue;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.footer2 h2 {
+    padding: 0px 15px;
+}
+.fotoRedo {
+
+    border-radius: 29%;
+}
+h1 {
+    letter-spacing: 3px;
+}
