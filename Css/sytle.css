@@ -36,3 +36,8 @@ header {
 h1 {
     letter-spacing: 3px;
 }
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
